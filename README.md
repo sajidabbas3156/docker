@@ -1,7 +1,5 @@
 # Official phpMyAdmin Docker image
 
-Note that since phpMyAdmin has been accepted in to the [official DockerHub repository](https://hub.docker.com/_/phpmyadmin), you can use
-either that or this older [phpMyAdmin repository](https://hub.docker.com/r/phpmyadmin/phpmyadmin/) for your Docker installation. This
 is maintained as a courtesy to users who have not migrated.
 
 Run phpMyAdmin with Alpine, Apache and PHP FPM.
@@ -20,8 +18,6 @@ Run phpMyAdmin with Alpine, Apache and PHP FPM.
 [![Docker Pulls](https://img.shields.io/docker/pulls/_/phpmyadmin.svg)][hub]
 [![Docker Stars](https://img.shields.io/docker/stars/_/phpmyadmin.svg)][hub]
 
-All of the following examples will bring you phpMyAdmin on `http://localhost:8080`
-where you can enjoy your happy MySQL administration.
 
 ## Credentials
 
